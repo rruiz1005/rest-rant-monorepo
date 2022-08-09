@@ -68,7 +68,7 @@ function SignUpForm() {
 						/>
 					</div>
 					<div className="col-sm-6 form-group">
-						<label htmlFor="password">Passowrd</label>
+						<label htmlFor="password">Password</label>
 						<input
 							type="password"
 							required
